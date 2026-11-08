@@ -1,3 +1,5 @@
+package ThreadCreation;
+
 public class checkThreadName {
     public static void main(String[] args) {
         System.out.println(Thread.currentThread().getName());

@@ -1,3 +1,4 @@
+package ThreadCreation;
 public class createThreadBythread {
     public static void main(String[] args) {
         Mythread t1 = new Mythread();
