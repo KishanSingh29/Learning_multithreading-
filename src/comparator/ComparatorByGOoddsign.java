@@ -17,11 +17,11 @@ public class ComparatorByGOoddsign {
         //     return s1.marks - s2.marks;
         // }
 };
-        Collections.sort(list, (s1, s2) -> s1.marks - s2. marks);
+        // Collections.sort(list, (s1, s2) -> s1.marks - s2.marks);
 
-        for(Student s : list){
-            System.out.println(s.name + ", " + s.rollNo + ", " + s.marks);
-        }
+        // for(Student s : list){
+        //     System.out.println(s.name + ", " + s.rollNo + ", " + s.marks);
+        // }
 
     }
 }
